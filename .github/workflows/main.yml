@@ -9,7 +9,7 @@ jobs:
   start_task_1:
     name: Start Task 1
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 1
         run: |  
@@ -23,7 +23,7 @@ jobs:
   start_task_2:
     name: Start Task 2
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 2
         run: |  
@@ -37,7 +37,7 @@ jobs:
   start_task_3:
     name: Start Task 3
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 3
         run: |  
@@ -51,7 +51,7 @@ jobs:
   start_task_4:
     name: Start Task 4
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 4
         run: |  
@@ -65,7 +65,7 @@ jobs:
   start_task_5:
     name: Start Task 5
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 5
         run: |  
@@ -79,7 +79,7 @@ jobs:
   start_task_6:
     name: Start Task 6
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 6
         run: |  
@@ -93,7 +93,7 @@ jobs:
   start_task_7:
     name: Start Task 7
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 7
         run: |  
@@ -107,7 +107,7 @@ jobs:
   start_task_8:
     name: Start Task 8
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 8
         run: |  
@@ -121,7 +121,7 @@ jobs:
   start_task_9:
     name: Start Task 9
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 9
         run: |  
@@ -135,7 +135,7 @@ jobs:
   start_task_10:
     name: Start Task 10
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 10
         run: |  
@@ -149,7 +149,7 @@ jobs:
   start_task_11:
     name: Start Task 11
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 11
         run: |  
@@ -163,7 +163,7 @@ jobs:
   start_task_12:
     name: Start Task 12
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 12
         run: |  
@@ -177,7 +177,7 @@ jobs:
   start_task_13:
     name: Start Task 13
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 13
         run: |  
@@ -191,7 +191,7 @@ jobs:
   start_task_14:
     name: Start Task 14
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 14
         run: |  
@@ -205,7 +205,7 @@ jobs:
   start_task_15:
     name: Start Task 15
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 15
         run: |  
@@ -219,7 +219,7 @@ jobs:
   start_task_16:
     name: Start Task 16
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 16
         run: |  
@@ -233,7 +233,7 @@ jobs:
   start_task_17:
     name: Start Task 17
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 17
         run: |  
@@ -247,7 +247,7 @@ jobs:
   start_task_18:
     name: Start Task 18
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 18
         run: |  
@@ -261,7 +261,7 @@ jobs:
   start_task_19:
     name: Start Task 19
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 19
         run: |  
@@ -275,7 +275,7 @@ jobs:
   start_task_20:
     name: Start Task 20
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 20
         run: |  
@@ -289,7 +289,7 @@ jobs:
   start_task_21:
     name: Start Task 21
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 21
         run: |  
@@ -304,7 +304,7 @@ jobs:
   start_task_22:
     name: Start Task 22
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 22
         run: |  
@@ -319,7 +319,7 @@ jobs:
   start_task_23:
     name: Start Task 23
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 23
         run: |  
@@ -334,7 +334,7 @@ jobs:
   start_task_24:
     name: Start Task 24
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 24
         run: |  
@@ -349,7 +349,7 @@ jobs:
   start_task_25:
     name: Start Task 25
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 25
         run: |  
@@ -364,7 +364,7 @@ jobs:
   start_task_26:
     name: Start Task 26
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 26
         run: |  
@@ -379,7 +379,7 @@ jobs:
   start_task_27:
     name: Start Task 27
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 27
         run: |  
@@ -394,7 +394,7 @@ jobs:
   start_task_28:
     name: Start Task 28
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 28
         run: |  
@@ -409,7 +409,7 @@ jobs:
   start_task_29:
     name: Start Task 29
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 29
         run: |  
@@ -424,7 +424,7 @@ jobs:
   start_task_30:
     name: Start Task 30
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 30
         run: |  
@@ -439,7 +439,7 @@ jobs:
   start_task_31:
     name: Start Task 31
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 31
         run: |  
@@ -454,7 +454,7 @@ jobs:
   start_task_32:
     name: Start Task 32
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 32
         run: |  
@@ -469,7 +469,7 @@ jobs:
   start_task_33:
     name: Start Task 33
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 33
         run: |  
@@ -484,7 +484,7 @@ jobs:
   start_task_34:
     name: Start Task 34
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 34
         run: |  
@@ -499,7 +499,7 @@ jobs:
   start_task_35:
     name: Start Task 35
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 35
         run: |  
@@ -514,7 +514,7 @@ jobs:
   start_task_36:
     name: Start Task 36
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 36
         run: |  
@@ -529,7 +529,7 @@ jobs:
   start_task_37:
     name: Start Task 37
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 37
         run: |  
@@ -544,7 +544,7 @@ jobs:
   start_task_38:
     name: Start Task 38
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 38
         run: |  
@@ -559,7 +559,7 @@ jobs:
   start_task_39:
     name: Start Task 39
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 39
         run: |  
@@ -574,7 +574,7 @@ jobs:
   start_task_40:
     name: Start Task 40
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 720
     steps:
       - name: Jalankan Task 40
         run: |  
